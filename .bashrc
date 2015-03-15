@@ -14,4 +14,8 @@ PS1='[\u@\h \W]\$ '
 PATH=$PATH:~/.node_modules/bin
 export npm_config_prefix=~/.node_modules
 
+#set vim as default editor
+export EDITOR=vim
+export VISUAL=vim
+
 source ~/.machineSpecific.sh

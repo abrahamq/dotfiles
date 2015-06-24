@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/abrahamq/Documents/Music/Lorde - Pure Heroine (Extended-iTunes Edition) [Pop] 2013 [MP3-320 Kbps] [P2PDL]'
+let g:netrw_dirhist_2='/home/abrahamq/Documents/railsApps/stickserver/config'
+let g:netrw_dirhist_3='/home/abrahamq/.config/sxhkd'
+let g:netrw_dirhist_4='/home/abrahamq/.i3'
+let g:netrw_dirhist_5='/home/abrahamq'
+let g:netrw_dirhist_6='/home'

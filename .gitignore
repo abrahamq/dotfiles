@@ -1,6 +1,6 @@
 #for vim 
-.swp
-.swo
+*.swp
+*.swo
 
 # Compiled source #
 ###################

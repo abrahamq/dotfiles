@@ -1,3 +1,7 @@
+#for vim 
+.swp
+.swo
+
 # Compiled source #
 ###################
 *.com
